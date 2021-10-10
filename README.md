@@ -1,1 +1,1 @@
-Excek reader for Local sheet or Google sheet
+Excel reader for Local sheet or Google sheet
